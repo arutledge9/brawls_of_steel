@@ -1,4 +1,4 @@
-# splinterlands_brawl_report
+# brawls_of_steel
 Python code in Jupyter Notebook to produce summary report in markdown format
 
 ## Description
